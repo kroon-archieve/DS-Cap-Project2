@@ -18,7 +18,9 @@ Forecasts for Product Demand: Make Accurate Forecasts for Thousands of Different
 - 비교대상: XGBoost, LSTM
 - LSTM 모델 구조
 
-![capstone2_model](https://user-images.githubusercontent.com/70473564/113669161-48a3a880-96ee-11eb-9f71-66c04b1cc6c1.png)
+![lstm_](https://user-images.githubusercontent.com/70473564/113970703-49fdde00-9872-11eb-8808-a7c3a6a310d6.png)
+
+
 
 ---
 ## 결과
@@ -26,8 +28,8 @@ Forecasts for Product Demand: Make Accurate Forecasts for Thousands of Different
 |               | MAE | RMSE |
 |:-----------:|:------:|----------:|
 |ARIMA    |1,566,273.08 | 2,035,642.05|
-|XGBoost |696,868.72    | 1,045,262.82|
-|LSTM      |1,018,096.47|1,439,620.16 |
+|XGBoost |669,591.5    | 999,821.2|
+|LSTM      |842,659.64|1,148,008.08 |
 
 ---
 ## 참고문헌
